@@ -12,3 +12,13 @@ Installation
 .. code-block:: console
 
     $ pip install .
+
+Usage
+=====
+
+Once installed, run the included script to get a sprint name:
+
+.. code-block:: console
+
+    $ sprint_names
+    Your next sprint should be called Thirsty Cavendish.
