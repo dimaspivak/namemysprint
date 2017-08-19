@@ -9,6 +9,14 @@ cyclists).
 Installation
 ============
 
+The latest stable release can be installed from PyPI:
+
+.. code-block:: console
+
+    $ pip install namemysprint
+
+Or if you're feeling adventurous and want to install from source:
+
 .. code-block:: console
 
     $ pip install .
