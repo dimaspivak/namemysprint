@@ -17,15 +17,15 @@
 from setuptools import setup
 
 setup(
-    name='sprint_names',
+    name='namemysprint',
     version='1.0.0',
-    url='https://github.com/dimaspivak/sprint_names',
+    url='https://github.com/dimaspivak/namemysprint',
     license='Apache Software License 2.0',
     author='Dima Spivak',
     author_email='dima@spivak.ch',
-    description='Give your next sprint a cool name',
-    py_modules=['sprint_names'],
+    description="Xzibit's favorite sprint-naming utility. (Not really.)",
+    py_modules=['namemysprint'],
     zip_safe=False,
-    entry_points={'console_scripts': ['sprint_names = sprint_names:main']},
+    entry_points={'console_scripts': ['name-my-sprint = namemysprint:main']},
     include_package_data=True,
 )
