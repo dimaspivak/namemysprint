@@ -18,7 +18,7 @@ from setuptools import setup
 
 setup(
     name='namemysprint',
-    version='1.1.0',
+    version='1.1.1',
     url='https://github.com/dimaspivak/namemysprint',
     license='Apache Software License 2.0',
     author='Dima Spivak',
